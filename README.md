@@ -1,4 +1,3 @@
-# Ngo-donations-and-volunteer-management-system
 # NGO Donations & Volunteer Management System
 
 A Salesforce-based application designed to help NGOs efficiently manage **donations, volunteers, and events** with end-to-end automation, role-based access, and real-time reporting.
